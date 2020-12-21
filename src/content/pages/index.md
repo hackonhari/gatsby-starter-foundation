@@ -3,7 +3,7 @@ template: index-page
 slug: /
 title: Hackon Hari
 tagline: web developer and a digital marketer
-featuredImage: /assets/hackonhari-photo.png
+featuredImage: /assets/fredrick-tendong-hvyepjyehdq-unsplash.jpg
 cta:
   ctaText: Know more
   ctaLink: /about
